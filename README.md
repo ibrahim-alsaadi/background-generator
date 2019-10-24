@@ -1,3 +1,0 @@
-# background-generator
-
-basic exercise
